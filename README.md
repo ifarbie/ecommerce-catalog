@@ -2,7 +2,7 @@
 Welcome to the Ecommerce Catalog web application, a simple yet powerful web application built with Vue 2 and Vue CLI. This application allows users to explore a curated catalog of products, offering an easy navigation experience to view one product at a time.
 
 # Demo Program
-[Link]([https://www.github.com](https://ecommerce-catalog-5b747.web.app/))
+[Link](https://ecommerce-catalog-5b747.web.app/)
 
 
 
